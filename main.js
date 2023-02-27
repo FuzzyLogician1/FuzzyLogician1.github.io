@@ -1,7 +1,7 @@
 
 
 
-console.log("Hi I'm a test.");
+
 const buttons = document.querySelectorAll(".card-buttons button");
 console.log("Breakpoint1");
 const sections = document.querySelectorAll(".card-section");
